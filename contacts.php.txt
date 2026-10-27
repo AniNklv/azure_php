@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Контакти</title>
+    </head>
+    <body>
+        <h1>Страница за контакти</h1>
+        <p>Тук може да се свържете с нас.</p>
+        <a href="index.php">Начало</a>
+    </body>
+</html>
